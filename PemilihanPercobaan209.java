@@ -28,10 +28,10 @@ public class PemilihanPercobaan209 {
         } else if (total >50 && total <= 60) {
         System.out.println("Selamat Anda mendapat nilai C dengan kualifikasi cukup");
         } else if (total >39 && total <= 50) {
-        System.out.println("Selamat Anda mendapat nilai D dengan kualifikasi kurang");
+        System.out.println("Mohon maaf Anda mendapat nilai D dengan kualifikasi kurang");
         }
          else if (total <= 39) {
-        System.out.println("Selamat Anda mendapat nilai E dengan kualifikasi gagal");
+        System.out.println("Sayang sekali Anda mendapat nilai E dengan kualifikasi gagal");
         }
     }
 }
